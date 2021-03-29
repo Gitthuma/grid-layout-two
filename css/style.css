@@ -1,3 +1,9 @@
+.grid > * {
+  color: #fff;
+  border-radius: 0.5em;
+  padding: 0.5em;
+}
+
 .grid {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
