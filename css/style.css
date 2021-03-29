@@ -14,9 +14,13 @@
 .item1 {
   background-color: rgba(74, 102, 112, 0.7);
   border: 5px solid rgba(74, 102, 112, 1);
+  grid-column: 1;
+  grid-row: 1;
 }
 
 .item2 {
   background-color: rgba(214, 162, 173, 0.7);
   border: 5px solid rgba(214, 162, 173, 1);
+  grid-column: 1;
+  grid-row: 1;
 }
