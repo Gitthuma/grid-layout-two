@@ -17,4 +17,6 @@
 }
 
 .item2 {
+  background-color: rgba(214, 162, 173, 0.7);
+  border: 5px solid rgba(214, 162, 173, 1);
 }
